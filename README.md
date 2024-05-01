@@ -1,0 +1,2 @@
+# KrastalOS
+Welcome to KrastalOS ! 
