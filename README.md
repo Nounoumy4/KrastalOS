@@ -1,6 +1,9 @@
 # KrastalOS
 Welcome to KrastalOS ! 
-KrastalOS Is a COSMOS based OS in CSharp ( C# )
+KrastalOS Is a Cosmos OS based OS in CSharp & Assembly
 
-# WIP
-WIP
+# Features
+UEFI & Bios
+HTTP ( HTTPS not supported )
+CMD Terminal ( WIP )
+Neofetch ( WIP )
